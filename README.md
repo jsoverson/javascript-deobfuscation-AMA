@@ -1,5 +1,6 @@
 # javascript-deobfuscation-AMA
-General questions about deobfuscating JavaScript
+
+Open an issue to ask any questions about deobfuscating JavaScript
 
 Related projects:
 
